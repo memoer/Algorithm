@@ -1,3 +1,2 @@
-# 패스트 캠퍼스 유형별 문제 풀이
-
-- 문제 풀이 깃헙 주소 : https://github.com/ndb796/Fast_Campus_Algorithm_Lecture_Notes
+1. 패스트 캠퍼스 유형별 풀이 코드
+2. 프로그래머스 단계별 풀이 코드

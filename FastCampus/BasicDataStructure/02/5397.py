@@ -1,3 +1,4 @@
+# 키로거 - 중 - 스택, 구현, 그리디 ( 제목 - 난이도 - 유형 )
 # https://www.acmicpc.net/problem/5397
 test_case = int(input())
 
